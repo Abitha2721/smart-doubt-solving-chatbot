@@ -1,0 +1,52 @@
+Question,Answer
+What is AI?,AI stands for Artificial Intelligence.
+What is Artificial Intelligence?,Artificial Intelligence enables machines to perform tasks that normally require human intelligence.
+What is Machine Learning?,Machine Learning is a subset of AI.
+What is Deep Learning?,Deep Learning is a subset of Machine Learning.
+What is Data Science?,Data Science is the study of data.
+What is Python?,Python is a programming language.
+What is Java?,Java is an object-oriented programming language.
+What is C?,C is a procedural programming language.
+What is C++?,C++ is an extension of the C language.
+What is HTML?,HTML is used to create web pages.
+What is CSS?,CSS is used to style web pages.
+What is JavaScript?,JavaScript makes web pages interactive.
+What is Bootstrap?,Bootstrap is a CSS framework.
+What is Flask?,Flask is a lightweight Python web framework.
+What is Django?,Django is a Python web framework.
+What is SQL?,SQL is used to manage databases.
+What is DBMS?,DBMS stands for Database Management System.
+What is MySQL?,MySQL is a relational database management system.
+What is NLP?,NLP stands for Natural Language Processing.
+What is Computer Vision?,Computer Vision helps computers understand images.
+What is Cloud Computing?,Cloud Computing provides computing services over the internet.
+What is IoT?,IoT stands for Internet of Things.
+What is Cyber Security?,Cyber Security protects systems and networks from attacks.
+What is Data Mining?,Data Mining finds useful patterns in data.
+What is Big Data?,Big Data refers to extremely large datasets.
+What is Hadoop?,Hadoop is a framework for processing big data.
+What is Spark?,Apache Spark is a fast data processing engine.
+What is Git?,Git is a version control system.
+What is GitHub?,GitHub is a platform to host Git repositories.
+What is API?,API stands for Application Programming Interface.
+What is Operating System?,An Operating System manages computer hardware and software.
+What is Windows?,Windows is an operating system developed by Microsoft.
+What is Linux?,Linux is an open-source operating system.
+What is RAM?,RAM is temporary memory used by a computer.
+What is ROM?,ROM stores permanent instructions.
+What is CPU?,CPU is the brain of the computer.
+What is GPU?,GPU processes graphics and parallel computations.
+What is Compiler?,A compiler translates source code into machine code.
+What is Interpreter?,An interpreter executes code line by line.
+What is Algorithm?,An algorithm is a step-by-step solution to a problem.
+What is Flowchart?,A flowchart represents an algorithm graphically.
+What is Array?,An array stores multiple values of the same type.
+What is Stack?,A stack follows the Last In First Out principle.
+What is Queue?,A queue follows the First In First Out principle.
+What is Linked List?,A linked list is a linear data structure.
+What is Tree?,A tree is a hierarchical data structure.
+What is Graph?,A graph consists of nodes and edges.
+What is Function?,A function is a reusable block of code.
+What is Loop?,A loop repeats a block of code.
+What is Variable?,A variable stores data values.
+What is String?,A string is a sequence of characters.

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Doubt Solving Chatbot</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="chat-container">
+
+    <div class="chat-header">
+        <div class="logo">🤖</div>
+
+        <div class="title">
+            <h2>Smart Doubt Solving Chatbot</h2>
+            <p>AI Learning Assistant</p>
+        </div>
+    </div>
+
+    <div id="chat-box">
+        <div class="bot">
+            <span>👋 Hello! Ask me your doubt.</span>
+        </div>
+    </div>
+
+    <div class="input-area">
+        <input
+            type="text"
+            id="question"
+            placeholder="Type your question here..."
+            onkeypress="if(event.key==='Enter'){sendMessage();}"
+        >
+
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
